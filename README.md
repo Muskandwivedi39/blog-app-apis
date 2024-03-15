@@ -40,7 +40,7 @@ Below are the available endpoints for the blog API:
   - PUT /api/categories/{id}
   - DELETE /api/categories/{id}
 
- - **Posts:**
+- **Posts:**
   - GET /api/posts
   - GET /api/posts/{id}
   - POST /api/posts
