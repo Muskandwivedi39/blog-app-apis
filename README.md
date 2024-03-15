@@ -53,9 +53,7 @@ Below are the available endpoints for the blog API:
   - POST /api/posts/{post_id}/comments
   - PUT /api/comments/{id}
   - DELETE /api/comments/{id}
-
-
-
+  - ![Screenshot 2024-03-15 152326](https://github.com/Muskandwivedi39/blog-app-apis/assets/114982533/8480e7ac-7c21-4464-bbdf-b9fe4eec097c)
 
 
 
