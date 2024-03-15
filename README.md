@@ -1,7 +1,6 @@
-# Blog Application REST API
+# Blog Application 
 
-This repository contains the code for a RESTful API for a blog application with user, post, category, and comment features. The API is designed using Spring Boot framework with Hibernate JPA for efficient database operations, and it utilizes an H2 in-memory database for seamless functionality.
-
+Designed a REST API for a blog application with user, post, category, and comment fea- tures, utilizing Hibernate JPA to efficiently handle database operations and ensure seam- less functionality.
 ## Features
 
 - *User Management*: Create, retrieve, update, and delete users.
